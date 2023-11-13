@@ -1,29 +1,33 @@
 ---
 enable: true
-title: "What Users Are Saying About Hugoplate"
-description: "Don't just take our word for it - hear from some of our satisfied users!  Check out some of our testimonials below to see what others are saying about Hugoplate."
+title: "Client Wins: ETLBox in Real-World Scenarios"
+description: "Discover how our products have empowered a diverse range of businesses. From startups to established enterprises, our clients are our best testimony, reflecting our commitment to excellence in data integration and engineering with ETLBox."
 
 # Testimonials
 testimonials:
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Commonwealth Bank of Australia"
+    designation: "Australia"
+    avatar: "/images/references/cba_tb.png"    
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Deloitte"
+    designation: "Ireland, India"
+    avatar: "/images/references/deloitte.svg"
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "IWG"
+    designation: "Switzerland"
+    avatar: "/images/references/iwg.svg"    
 
-  - name: "Marvin McKinney"
-    designation: "Web Designer"
-    avatar: "/images/avatar-sm.png"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo molestias, assumenda expedita commodi inventore non itaque molestiae voluptatum dolore, facilis sapiente, repellat veniam."
+  - name: "Meusburger"
+    designation: "Austria"
+    avatar: "/images/references/meusburger.svg"    
+
+  - name: "Brunata"
+    designation: "Denmark"
+    avatar: "/images/references/brunata_logo.png"    
+
+  - name: "Neobi"
+    designation: "Canada"
+    avatar: "/images/references/neobi.svg"       
 
 # don't create a separate page
 _build:
