@@ -3,7 +3,7 @@
 banner:
   title: "Unlock Your Data's Potential with ETLBox: Expert Consulting for Data Integration and Engineering"
   content: "Our service provides tailored solution development for your data integration and engineering needs, using the power of ETLBox to optimize your data processes and drive better business decisions."
-  image: "/images/banner.png"
+  image: "/images/banner/banner_transparent.png"
   button:
     enable: true
     label: "Talk with an expert"
@@ -12,7 +12,7 @@ banner:
 # Features
 features:
   - title: "Enhance Your Data Operations with Our Expertise"
-    image: "/images/service-1.png"
+    image: "/images/service/service-1.png"
     content: "Unlock the power of ETLBox with our expert team. We specialize in data integration and engineering, providing targeted solutions to elevate your data strategy. Our approach is practical, efficient, and tailored to your business needs."
     bulletpoints:      
       - "Clean, efficient coding for data management."
@@ -28,7 +28,7 @@ features:
       link: "#"
 
   - title: "Streamlined ETL Consulting: Code-First, Client-First"
-    image: "/images/service-2.png"
+    image: "/images/service/service-2.png"
     content: "Our consulting services are anchored in a code-first approach, using the combined power of C#/.NET and ETLBox to craft tailor made data solutions. With this toolkit, we bring the advantage of reusing proven best practices, ensuring efficiency and reliability in every project."
     bulletpoints:
       - "C#/.NET Driven: Crafting data solutions in a familiar coding environment."
@@ -40,7 +40,7 @@ features:
       link: "https://github.com/zeon-studio/hugoplate"
 
   - title: "Why Choose Our ETLBox Consulting?"
-    image: "/images/service-3.png"
+    image: "/images/service/service-3.png"
     content: "Select our service for a blend of expertise, innovation, and proven results in the realm of data integration and engineering."
     bulletpoints:
       - "Expert Mastery of C#/.NET and ETLBox: Leverage unparalleled expertise in the tools essential for effective data solutions."
