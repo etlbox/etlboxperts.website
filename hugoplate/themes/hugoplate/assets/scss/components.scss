@@ -4,9 +4,9 @@ main {
 
 // section style
 .section {
-  @apply py-24 xl:py-28;
+  @apply py-24 xl:py-10;
   &-sm {
-    @apply py-16 xl:py-20;
+    @apply py-3 xl:py-6;
   }
 }
 
