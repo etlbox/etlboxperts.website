@@ -12,53 +12,32 @@ url = "service/"
 weight = 2
 
 [[main]]
-name = "Elements"
-url = "elements/"
+name = "Why us?"
+url = "why-us/"
 weight = 3
 
 [[main]]
-weight = 4
-name = "Pages"
-hasChildren = true
-
-[[main]]
-parent = "Pages"
-name = "Blog"
-url = "blog/"
-
-[[main]]
-parent = "Pages"
 name = "Contact"
 url = "contact/"
+weight = 4
 
-[[main]]
-parent = "Pages"
-name = "Authors"
-url = "authors/"
+#[[main]]
+#weight = 4
+#name = "Pages"
+#hasChildren = true
 
-[[main]]
-parent = "Pages"
-name = "Categories"
-url = "categories/"
-
-[[main]]
-parent = "Pages"
-name = "404 Page"
-url = "404/"
-
+#[[main]]
+#parent = "Pages"
+#name = "Blog"
+#url = "blog/"
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "About us"
+url = "team/"
 weight = 1
-
-[[footer]]
-name = "Elements"
-url = "elements/"
-weight = 2
 
 [[footer]]
 name = "Privacy Policy"
 url = "privacy-policy/"
-weight = 3
+weight = 2

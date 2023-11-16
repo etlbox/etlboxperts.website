@@ -7,7 +7,7 @@ banner:
   button:
     enable: true
     label: "Talk with an expert"
-    link: "https://github.com/zeon-studio/hugoplate"
+    link: "/contact"
 
 # Features
 features:
@@ -25,7 +25,7 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "/contact"
 
   - title: "Streamlined ETL Consulting: Code-First, Client-First"
     image: "/images/service/service-2.png"
@@ -37,7 +37,7 @@ features:
     button:
       enable: true
       label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      link: "/contact"
 
   - title: "Why Choose Our ETLBox Consulting?"
     image: "/images/service/service-3.png"
@@ -50,5 +50,5 @@ features:
     button:
       enable: false
       label: ""
-      link: ""
+      link: "/contact"
 ---
