@@ -1,5 +1,5 @@
 ---
-title: "Welcome our team"
+title: "About us"
 ---
 
 ## Business Dedicated to Managing Data

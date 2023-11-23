@@ -3,6 +3,7 @@ title: Andreas
 email: andreas.lennartz@etlbox.net
 image: "/images/team/andreas.jpg"
 description: About Andreas
+draft: true
 social:
   - name: github
     icon: fa-brands fa-github
