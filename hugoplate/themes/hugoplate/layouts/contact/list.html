@@ -23,7 +23,11 @@
         <h3 class="mb-4">Contact Form</h3>
         <p class="mb-4">If you have questions, feedback, or need assistance, please fill out the form below. 
           We're eager to hear from you and will respond promptly.</p>
-        <form action="{{ site.Params.contact_form_action }}" method="POST" data-netlify="true">
+        <form action="{{ site.Params.contact_form_action }}" method="POST" data-netlify="true" name="contact-form">          
+          <div class="hidden">
+            <label for="bot-field">Don’t fill this out if you’re human: </label>
+            <input name="bot-field" id="bot-field" type="text" />
+          </div>
           <div class="mb-6">
             <label for="name" class="form-label">
               Your Name <span class="text-red-500">*</span>
