@@ -6,22 +6,23 @@ title: "About us"
 
 At ETLBoxperts, we are committed to simplifying data and API integration for our clients. Our sole focus is transforming data: we develop robust software to consolidate data, implement solutions rigorously, and provide first class support.
 
-Founded originally as a sole proprietorship, and currently in transition to a company with limited liability, our company is built on a foundation of profound knowledge and expertise in data and IT. Our extensive experience is complemented by a broad network of freelancers, each sharing the same passion for data. This network not only enriches our capabilities but also provides the agility to make long-term, strategic decisions in the best interest of our clients.
+Founded as a company with limited liability in the heart of Germany, our company is built on a foundation of profound knowledge and expertise in data and IT. Our extensive experience is complemented by a broad network of freelancers, each sharing the same passion for data. This network not only enriches our capabilities but also provides the agility to make long-term, strategic decisions in the best interest of our clients.
 
 We serve a diverse array of leading companies worldwide, from global non-profit organizations and medium-sized medical firms to small consulting practices. Our specialization in data integration since our beginning has equipped us with comprehensive expertise across various data-related domains. This expertise allows us to deliver top-tier data solutions to businesses of all sizes and sectors.
 
 #### Crafted with Love in Berlin
 
-The ETLBox Office is more than just a company; it's a hub of innovation and excellence located in the heart of Berlin, Germany. Here, we blend advanced technology with a touch of creativity to provide unique data management solutions.
+ETLBoxperts is more than just a company; it's a hub of innovation and excellence located in the heart of Berlin, Germany. Here, we blend advanced technology with a touch of creativity to provide unique data management solutions.
 
 #### Headquarter / Legal address
 
 ```C#
-ETLBox Office Andreas Lennartz 
+ETLBoxperts GmbH
 Landsberger Str. 218
 12623 Berlin 
 Germany
 
+Registration Number: HRB 263153
 VAT Number: DE333985271
 Phone: +49 30 72621 1087
 ```
